@@ -1,10 +1,7 @@
-# PT AF pro configurator
+*проект заморожен, используйте новую версию* https://github.com/kib888/ptaf-pro-conf_ansible/
 
 
-проект заморожен, используйте новую версию https://github.com/kib888/ptaf-pro-conf_ansible/
-
-
-
+#### PT AF pro configurator
 
 Конфигуратор (скрипт python) работает по принципу: на входе заполняете Excel с сетевыми параметрами, на выходе получаете набор bash команд для конфигурации кластера.
 
